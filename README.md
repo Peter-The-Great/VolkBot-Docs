@@ -1,4 +1,4 @@
-# cleandocs-template
+# VolkBot-Docs
 A documentation of the VolkBot, built using HTML, Tailwindcss and Javascript
 
 
